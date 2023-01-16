@@ -14,10 +14,5 @@ Data is stored in a database.
 
 Spring boot app processes the user’s request and gives an appropriate response to users.
 
-Project is deployed using replit.
-URL:-https://FruitfulMenacingLight.jayacha7.repl.co
-
-
-Video :-
-![This is an image](https://user-images.githubusercontent.com/113333328/212561617-f6c14d28-edab-4e64-bcee-be951dca6919.mp4)
+https://user-images.githubusercontent.com/113333328/212625925-12a5086b-fe87-4bfb-915b-41e1a88a9e29.mp4
 
