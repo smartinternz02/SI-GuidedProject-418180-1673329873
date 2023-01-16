@@ -15,7 +15,8 @@ This application will provide details about flights. Users can list places, view
 >Spring boot app processes the user’s request and gives an appropriate response to users.
 
 
-
+The Project is deployed using Replit.
+# URL:- https://FruitfulMenacingLight.jayacha7.repl.co
 
 
 # Demo Video:-
