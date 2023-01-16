@@ -26,5 +26,3 @@ https://fruitfulmenacinglight.jayacha7.repl.co/
 https://user-images.githubusercontent.com/113333328/212633529-472c7b63-a0c4-4b27-a045-2b69c845ebe4.mp4
 
 ## Course Completion Certificate
-<img width = "800" src="https://user-images.githubusercontent.com/113333328/212649336-a92530ed-1ee1-4976-bc82-c1bd3ce5dd1e.png">
-![Certificate](https://user-images.githubusercontent.com/113333328/212649505-1f4a1719-cca1-4d0c-8cd9-c9485620e574.png)
